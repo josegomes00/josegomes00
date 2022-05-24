@@ -2,4 +2,4 @@
 - 👀 Estou interessado em desenvolver e aprender mais sobre as linguagens de programação
 - 🌱 Atualmente estou cursando Sistemas para Internet na Uniesp (P1) e Redes de Computadores no IFPB (P1)
 - 💞️ Procuro colaborar em desenvolvimentos de projetos acadêmicos e sistemas para automação de funções cotidianas
-- 📫 me e-mail: josegomespessoal@gmail.com
+- 📫 meu e-mail: josegomespessoal@gmail.com
